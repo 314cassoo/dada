@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #bc1f1f;
+}
+p {
+    text-indent: 20px;
+}
+.title {
+    font-family: Tahoma, sans-serif;
+    text-align: center;
+    color: aqua;
+    font-weight: 700;
+    letter-spacing: 3px;
+    text-decoration: overline;
+    text-transform: uppercase;
+}
+.zalupa {
+    color: blueviolet;
+}
+.justify {
+    text-align: justify;
+    font-weight: normal;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: inside;
+    
+    font-family: Tahoma, sans-serif;
+    color: rgba(206, 115, 58, 0.69)
+}
+
+ol {
+    list-style-type: decimal-leading-zero;
+}
